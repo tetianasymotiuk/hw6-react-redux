@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hw6-react-redux.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hw6-react-redux.git/static/js/main.530ee422.chunk.js",
+    "main.js.map": "/hw6-react-redux.git/static/js/main.530ee422.chunk.js.map",
+    "runtime-main.js": "/hw6-react-redux.git/static/js/runtime-main.ad9e9186.js",
+    "runtime-main.js.map": "/hw6-react-redux.git/static/js/runtime-main.ad9e9186.js.map",
+    "static/js/2.78bb1f37.chunk.js": "/hw6-react-redux.git/static/js/2.78bb1f37.chunk.js",
+    "static/js/2.78bb1f37.chunk.js.map": "/hw6-react-redux.git/static/js/2.78bb1f37.chunk.js.map",
+    "index.html": "/hw6-react-redux.git/index.html",
+    "precache-manifest.e7a21912d172ac65b60acc69b42507cb.js": "/hw6-react-redux.git/precache-manifest.e7a21912d172ac65b60acc69b42507cb.js",
+    "service-worker.js": "/hw6-react-redux.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hw6-react-redux.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.78bb1f37.chunk.js.LICENSE.txt": "/hw6-react-redux.git/static/js/2.78bb1f37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9e9186.js",
+    "static/js/2.78bb1f37.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.530ee422.chunk.js"
+  ]
+}
